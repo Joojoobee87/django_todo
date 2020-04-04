@@ -26,7 +26,7 @@ SECRET_KEY = '^$(79vw3#-k(ic#oggy^_5!-+#+sp@o1i^aw_j_572tnjyk1n&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['broomy-django-todo.herokuapp.com']
 
 
 # Application definition
